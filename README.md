@@ -1,7 +1,7 @@
 <h1 align="center"> Barra de Navegação Fixa</h1>
 
 Este projeto foi criado com o intuito de colocar em prática meus os conhecimentos adquiridos. A ideia inicial é desenvolver
-um `Barra de Navegação Fixa` para aprofundar em CSS, deixando a barra de navegação com diferencial nesse projeto e utilizando o javascript.
+uma `Barra de Navegação` para aprofundar em CSS, deixando a barra de navegação com diferencial nesse projeto e utilizando o javascript.
 
 ## 📁 Acesso ao projeto
 
